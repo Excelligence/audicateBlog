@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: Excelligence/audicateBlog
 
 media_folder: static/assets
 public_folder: assets
